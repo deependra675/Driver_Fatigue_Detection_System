@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+venv/
+.git
+dist/
+build/
+*.spec
+fleet_telemetry.db
+fleet_telemetry.db-wal
+fleet_telemetry.db-shm
